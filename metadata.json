@@ -1,0 +1,6 @@
+{
+  "name": "Job Portal System",
+  "description": "A comprehensive job portal where recruiters can post jobs, candidates can register, upload resumes/photos, and apply, and admins can manage user roles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
